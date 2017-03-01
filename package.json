@@ -1,0 +1,16 @@
+{
+  "name": "papacoy-030117",
+  "version": "1.0.0",
+  "description": "Web Dev't Boilerplate Setup using Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "xavier",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
